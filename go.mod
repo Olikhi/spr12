@@ -1,4 +1,4 @@
-module github.com/Olikhi/spr12
+module github.com/Yandex-Practicum/42-docker-final
 
 go 1.22
 
