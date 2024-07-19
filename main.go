@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"modernc.org/sqlite"
+	_ "modernc.org/sqlite"
 )
 
 const (
